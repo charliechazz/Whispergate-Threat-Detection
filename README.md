@@ -8,7 +8,7 @@ SilentWhisper is an advanced **Intrusion Detection and Prevention System** (**ID
 
 ---
 
-🔹 ## Key Features:
+## 🔹 Key Features:
 ✅ Real-time attack detection 🔥  
 ✅ Optimized **ML models** (LightGBM, KNN, Logistic Regression) 🤖  
 ✅ Custom rule integration for increased accuracy ⚡  

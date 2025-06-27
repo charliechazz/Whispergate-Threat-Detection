@@ -1,11 +1,49 @@
-Elastic License 2.0  
+# Multi-License Declaration
 
-Copyright © 2025 Carlos  
+This project is released under a multi-license scheme. Please read each section carefully.
 
-Permission is hereby granted, free of charge, to any recipient of this software to use, copy, modify, and distribute it, with the following conditions:  
+---
 
-1. The software cannot be offered or sold as a service without explicit permission.  
-2. Any redistribution must include this license and credit the original author.  
-3. No warranty is provided.  
+## 1. Elastic License 2.0
 
-Full text: https://www.elastic.co/licensing/elastic-license
+Copyright © 2025 Carlos
+
+Permission is hereby granted, free of charge, to any recipient of this software to use, copy, modify, and distribute it, subject to the following conditions:
+
+1. You may not offer the software as a service (SaaS) without prior, explicit permission from the copyright holder.
+2. Any redistribution must include this license and proper attribution to the original author.
+3. No warranty is provided, express or implied.
+
+Full license text: https://www.elastic.co/licensing/elastic-license
+
+---
+
+## 2. MIT License
+
+Certain parts of this project (e.g., scripts, helper functions, or visualizations) may be reused under the following MIT terms:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+The software is provided "as is", without warranty of any kind.
+
+---
+
+## 3. Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Documentation, reports, or research-related materials in this repository are licensed under the CC BY 4.0 license.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+## Attribution Summary
+
+- Code and software components: Elastic License 2.0 + MIT License (where indicated).
+- Documentation and research outputs: CC BY 4.0.
